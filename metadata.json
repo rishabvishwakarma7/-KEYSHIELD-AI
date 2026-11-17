@@ -1,0 +1,6 @@
+{
+  "name": "KEYSHIELD AI",
+  "description": "AI-Powered Endpoint Keylogger Detection & Threat Investigation Platform — See Beyond Threats. Detect. Investigate. Protect.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
